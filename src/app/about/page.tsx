@@ -14,7 +14,8 @@ import {
   ArrowRight,
   Star,
   BarChart3,
-  Building
+  Building,
+  Briefcase // <--- PERBAIKAN: Icon ini ditambahkan
 } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
